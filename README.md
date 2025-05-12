@@ -8,6 +8,10 @@ It tries to proactively instill certain behaviours into the AI so that you can d
 
 The prompt itself is pretty generic and will work well with other AI tools like Cline, Roo Code, without any major changes.
 
+Without further ado:
+
+## The Prompt
+
 ```
 * Always read entire files. Otherwise, you don’t know what you don’t know, and will end up making mistakes, duplicating code that already exists, or misunderstanding the architecture.  
 * Commit early and often. When working on large tasks, your task could be broken down into multiple logical milestones. After a certain milestone is completed and confirmed to be ok by the user, you should commit it. If you do not, if something goes wrong in further steps, we would need to end up throwing away all the code, which is expensive and time consuming.  
