@@ -1,4 +1,6 @@
-here are some prompts i made for gen usage
+
+This is my Claude Code system prompt `prompt.md` file.
+
 ```
 > <task-management>
 > <rules>
