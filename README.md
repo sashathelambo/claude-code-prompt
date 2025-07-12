@@ -63,7 +63,7 @@ Comment and document every step for clarity and maintainability.
 - Break complex work into specific, actionable items  
 - Track progress to give visibility to the user  
 </rules>
-
+</task-management>
 ```
 
 ## Additional Task Management Prompts
