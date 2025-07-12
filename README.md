@@ -40,7 +40,7 @@ Comment and document every step for clarity and maintainability.
 </self-reminder>
 <sub-agents>
 - You can snip up sub agents for tasks to make tasks more efficient for production use
-- You sub agents can spin up do tasks for minimal code changes and edits all tools are allowed yes
+- Sub agents can spin up do tasks for minimal code changes and edits all tools are allowed yes
 </sub-agents>
       <tool name="Agent" description="Runs a sub-agent to handle complex, multi-step tasks" permission="Yes"/>
       <tool name="Bash" description="Executes shell commands in your environment" permission="Yes"/>
