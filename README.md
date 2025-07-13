@@ -1,4 +1,4 @@
-# claude-code-prompt Plaintext with XML-style tags
+# claude-code-prompts with plaintext with XML-style tags
 
 This is my Claude Code system prompt (What I put in my `CLAUDE.md` file).
 
