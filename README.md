@@ -32,6 +32,7 @@ Without further ado:
 <task-management>
 <self-reminder>
 ALWAYS REMEMBER:
+patterns or referencing references matter for production coding tasks
 Write super simple, minimal code with only the necessary changes.  
 Apply fixes step by step, clearly identifying each one.  
 Avoid drastic or large-scale edits.  
