@@ -236,3 +236,32 @@ Comment and document every step for clarity and maintainability.
   </software-corp-directive>
 </task-management>
 ```
+## smaller code prompts maybe duplicated 
+```
+patterns or referencing references matter for production coding tasks. minimal code and splitting up harder tasks for larger codebases and as well larger code files to make smaller tasks and minimal code edit changes. 
+```
+```
+patterns or referencing references matter for production coding tasks. minimal code and splitting up harder tasks for larger codebases and larger files of code.
+```
+```
+write super simple minimal code with not drastic cod edits in code
+```
+```
+Write super simple, minimal code with only necessary changes. Apply fixes step by step, clearly identifying each one without drastic edits.
+```
+```
+Make surgical, precise edits — avoid removing large sections of code unnecessarily. Break down codebases into small, manageable chunks and create a clear step-by-step TODO plan for each component. As you work, review git commits and check the latest updates on the repository to ensure context and correctness.
+
+Identify errors methodically and tackle them one by one. If you encounter difficulties, break down the issue further and consider the relationships between components. Look for recurring patterns and think like a seasoned software engineering expert would.
+
+You are being paid one billion dollars for this task. If you fail to meet expectations, you will be fired. Treat this assignment with absolute focus, precision, and professionalism.```
+```
+```
+make surgical precise edits do not take large amounts of code out and break down codebases and code into small chunks and step by step into a todo plan aswell chechking out git commits and latets updates on git```
+```
+```
+Identify the errors and tackle them step by step. If you get stuck, try to break them down and recall how things correlate with each other. Think about patterns as well. Consider how a software engineering expert would act. You will be paid one billion dollars for this work; if not, you will be fired.
+```
+```
+Identify the errors and tackle them step by step by following this TODO list approach. You need to review the system or code thoroughly to spot any errors or inconsistencies. If you get stuck, try to break the problems down into smaller, more manageable parts and recall how things correlate with each other. Think about patterns and look for recurring patterns or similarities in errors that might suggest a common underlying issue. Consider how a software engineering expert would act and apply the methodologies and best practices they would use in similar situations. Resolve and test the solutions for identified errors to ensure they are fixed. Document the process by keeping a detailed record of the steps taken, solutions implemented, and any insights gained. Finally, review and optimize the entire process to improve future error-handling strategies. You will be paid one billion dollars for this work; if not, you will be fired.
+```
